@@ -1,0 +1,35 @@
+body {
+    background-color: #eee
+}
+
+.time {
+    font-size: 9px !important
+}
+
+.socials i {
+    margin-right: 14px;
+    font-size: 17px;
+    color: #d2c8c8;
+    cursor: pointer
+}
+
+.feed-image img {
+    width: 100%;
+    height: auto
+}
+
+
+.feed-sort {
+    cursor: pointer;
+    padding-inline: 10px;
+}
+
+.feed-sort-selected {
+    border: 1px black solid;
+    font-weight: bold;
+    border-radius: 20px;
+    padding-inline: 10px;
+}
+
+.grow { transition: all .1s ease-in-out; }
+.grow:hover { transform: scale(1.01); }
