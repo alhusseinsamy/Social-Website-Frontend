@@ -1,7 +1,8 @@
 # Social-Website-Frontend
 
-To build project:
+## To build project:
 
+```
 npm install
-
 npm start
+```
